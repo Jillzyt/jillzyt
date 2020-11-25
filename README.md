@@ -1,6 +1,6 @@
 ### Hi there 👋 (I'm in the midst of exams now :( ) 
 
-🌱 I’m am hoping to learn to program XCODE applications for fun during my break. 
+🌱 I’m hoping to learn to program XCODE applications for fun during my break. 
 
 <!--
 **Jillzyt/jillzyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
