@@ -1,4 +1,4 @@
-### Hi there 👋 (I'm in the midst of exams now :( ) 
+### Hi there 👋
 
 🌱 I’m hoping to learn to program XCODE applications for fun during my break. 
 
