@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🌱 I’m hoping to learn to program XCODE applications for fun during my break. 
-
 <!--
 **Jillzyt/jillzyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
